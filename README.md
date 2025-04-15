@@ -24,3 +24,11 @@ Install required Python packages:
 
 ```bash
 pip install -r requirements.txt
+
+Then install the Playwright browsers (Firefox will be used):
+```bash
+playwright install
+
+### Usage
+python3 Xss_s.py
+
