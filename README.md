@@ -27,8 +27,9 @@ pip install -r requirements.txt
  ```
 
 ### Usage 
-```git clone https://github.com/yourusername/XSS_S.git
-cd XSS_S
+```
+git clone https://github.com/eschust8/advance-xss-scanner.git
+cd advance-xss-scanner
 pip install -r requirements.txt
 playwright install
 python3 Xss_s.py
