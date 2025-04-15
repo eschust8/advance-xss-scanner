@@ -25,15 +25,19 @@ Install required Python packages:
 ```bash
 pip install -r requirements.txt
  ```
-git clone https://github.com/yourusername/XSS_S.git
+
+### Usage 
+```git clone https://github.com/yourusername/XSS_S.git
 cd XSS_S
 pip install -r requirements.txt
 playwright install
 python3 Xss_s.py
+```
 
-```bash
-playwright install
+### Each line should be a URL with a parameterin url.txt.
 
-### Usage
-python3 Xss_s.py
+https://target.com/search?q=
+https://vuln.site/profile?name=
+https://example.com/comment?msg=
+👉 Make sure the payload gets appended directly after the = sign.
 
