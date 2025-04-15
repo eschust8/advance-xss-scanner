@@ -36,8 +36,9 @@ python3 Xss_s.py
 
 ### Each line should be a URL with a parameterin url.txt.
 
-https://target.com/search?q=
+``` https://target.com/search?q=
 https://vuln.site/profile?name=
 https://example.com/comment?msg=
+```
 👉 Make sure the payload gets appended directly after the = sign.
 
