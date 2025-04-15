@@ -37,6 +37,12 @@ python3 Xss_s.py
 
 ### Each line should be a URL with a parameterin url.txt.
 
+## 🎥 Demo - How to Use `xss_s`
+
+Watch the usage demo video below:
+
+![Usage Demo](https://github.com/eschust8/advance-xss-scanner/raw/main/Demo.mp4)
+
 ``` https://target.com/search?q=
 https://vuln.site/profile?name=
 https://example.com/comment?msg=
