@@ -24,6 +24,12 @@ Install required Python packages:
 
 ```bash
 pip install -r requirements.txt
+ ```
+git clone https://github.com/yourusername/XSS_S.git
+cd XSS_S
+pip install -r requirements.txt
+playwright install
+python3 Xss_s.py
 
 ```bash
 playwright install
